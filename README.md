@@ -17,4 +17,9 @@ The topic of this project is WebRTC, Web Real Time Communication, which provides
 
 ### Contents
 
-The contents of this folder, are the demo and the tutorial webpage. The demo will showcase WebRTC's functionality, while the tutorial webpage will contain information regarding WebRTC.
+demo-walkthrough folder contains our demo video.
+
+project folder contains the source code for our demo.
+
+tutorial folder contains our tutorial webpage and its assets, the tutorial can be opened with "home.html".
+
