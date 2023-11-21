@@ -23,3 +23,5 @@ project folder contains the source code for our demo.
 
 tutorial folder contains our tutorial webpage and its assets, the tutorial can be opened with "home.html".
 
+### Link to demo
+https://drive.google.com/file/d/17QMEgZS9sqnA8kJZlmAdIlVHtXo3vsMk/view?usp=sharing
